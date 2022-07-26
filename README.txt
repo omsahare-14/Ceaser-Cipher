@@ -1,0 +1,3 @@
+A Caesar cipher, sometimes referred to as the shift cipher, is one of the most popular and widely used encryption methods. Each letter in the plaintext is replaced by a letter that is located a specific number of positions (key) along the alphabet in this form of substitution cipher.
+
+This code encrypts only words and not complete sentences
