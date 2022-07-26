@@ -1,6 +1,3 @@
-
-# Day 8: Ceaser Cipher
-
 import math
 
 logo = """           
